@@ -69,6 +69,15 @@ It features a dedicated Web Control Panel that allows you to intuitively manage 
 | `Shift + F12` | Cycle Dummy Player (Only works in Debug Mode) |
 | `Ctrl + C` | Exit the program entirely (Use in terminal) |
 
+### Quick reference for Capture Region (Shift+F10)
+
+- Choose OBS Mode if your UI looks like this:
+<img width="526" height="142" alt="image" src="https://github.com/user-attachments/assets/731c107a-a893-476d-a2c7-3e7686e9dd8f" />
+
+- Choose Non-OBS Mode if your UI looks like this:
+<img width="589" height="318" alt="image" src="https://github.com/user-attachments/assets/48157814-e74e-4c91-8539-ad3cb41a990c" />
+
+
 ## ⚠️ Important Notes
 - **Resolution**: The default capture coordinates are intended to work on a 1920x1080 resolution.
 - **Display Mode**: Set VALORANT graphic setting to "**Windowed Fullscreen (Borderless)**
