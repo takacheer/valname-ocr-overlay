@@ -1,0 +1,7 @@
+mss
+opencv-python
+numpy
+easyocr
+keyboard
+Flask
+Pillow==9.5.0

@@ -1,0 +1,28 @@
+{
+    "players": [
+        {
+            "active": true,
+            "detect_name": "IAM riotid",
+            "display_name": "takacheerツ",
+            "icon": "/picons/icon2.png",
+            "id": "f2e579fe-5f1c-4d41-ab2e-797bd54f6361",
+            "rank_icon": "radi",
+            "subtext": "OWLS"
+        },
+        {
+            "active": false,
+            "detect_name": "DFM athlete",
+            "display_name": "Miks",
+            "icon": "https://static.wikia.nocookie.net/valorant/images/5/56/Miks_icon.png",
+            "id": "1773926892529",
+            "rank_icon": "immo2",
+            "subtext": ""
+        }
+    ],
+    "settings": {
+        "monitor_index": 1,
+        "interval": 0.5,
+        "is_obs_mode": false,
+        "match_cutoff": 0.3
+    }
+}
