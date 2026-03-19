@@ -4,7 +4,10 @@ This tool uses OCR to read player names from the VALORANT game screen in real-ti
 
 It features a dedicated Web Control Panel that allows you to intuitively manage player registrations, edit profiles, and configure OCR settings directly from your browser.
 
+<img width="454" height="155" alt="image" src="https://github.com/user-attachments/assets/8e7fd805-80b7-4c39-82c4-abfed38acb21" />
+
 > ⚠️ **Disclaimer:** This application is intended for users who have some knowledge of Python (or general programming).
+
 > ⚠️ **Language Support:** By default, the OCR engine is configured to read only English and Japanese. Please edit the code as needed if you wish to add support for other languages.
 
 ## ✨ Features
@@ -55,6 +58,7 @@ It features a dedicated Web Control Panel that allows you to intuitively manage 
    3. The UI will appear at the bottom center when a player is detected. Prefably use debug mode to adjust position!
    4. Global Hotkeys
       You can control the application using the following shortcuts at any time:
+
 | Key | Function |
 | :--- | :--- |
 | `Shift + F7` | Start / Stop OCR Capturing |
